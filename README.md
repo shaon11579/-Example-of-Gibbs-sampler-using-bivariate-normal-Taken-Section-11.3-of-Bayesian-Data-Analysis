@@ -1,0 +1,1 @@
+# -Example-of-Gibbs-sampler-using-bivariate-normal-Taken-Section-11.3-of-Bayesian-Data-Analysis
